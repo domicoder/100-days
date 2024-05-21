@@ -1,0 +1,12 @@
+{
+    "name": "100-days",
+    "version": "1.0.0",
+    "description": "My 100-days project of exploring data structures and algorithms with TypeScript.",
+    "main": "index.ts",
+    "scripts": {
+        "dev": "npx ts-node 1-day.ts"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC"
+}
