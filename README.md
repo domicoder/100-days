@@ -21,6 +21,9 @@ npx ts-node 2-day.ts
 1. Reverse an Array: Implement a function to reverse an array.
    ![image](https://img001.prntscr.com/file/img001/mj5aRTLyQyq9nu4mlJwTZg.png)
 
-2. Next...
+2. Find Maximum Element: Implement a function to find the maximum element in an array.
+   ![image](https://img001.prntscr.com/file/img001/IS7iH6cFQr2KQNj8riYF5g.png)
+
+3. Next...
 
 ## 💅 We use Eslint and Prettier to format our code.
