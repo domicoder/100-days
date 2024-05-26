@@ -30,6 +30,19 @@ npx ts-node 2-day.ts
 4. Given an array nums and an integer k, write a function to rotate the array to the right by k steps, where k is non-negative.
    ![image](https://img001.prntscr.com/file/img001/rz5ZHp-aQIaXYC-ybq92xQ.png)
 
-5. Next...
+5. Sort an array of integers in ascending.
+   ![image](https://img001.prntscr.com/file/img001/CnaYrBFPSyi8P8JdznTQqw.png)
+
+6. Sort an array of strings in ascending.
+   ![image](https://img001.prntscr.com/file/img001/CnaYrBFPSyi8P8JdznTQqw.png)
+
+7. Sort an array of banks accounts by the balance in ascending.
+   ![image](https://img001.prntscr.com/file/img001/CnaYrBFPSyi8P8JdznTQqw.png)
+
+8. Sort an array of banks accounts by the balance in descending.
+   ![image](https://img001.prntscr.com/file/img001/CnaYrBFPSyi8P8JdznTQqw.png)
+
+9. Next...
+   ![image](https://img001.prntscr.com/file/img001/CnaYrBFPSyi8P8JdznTQqw.png)
 
 ## 💅 We use Eslint and Prettier to format our code.
