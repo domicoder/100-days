@@ -24,6 +24,9 @@ npx ts-node 2-day.ts
 2. Find Maximum Element: Implement a function to find the maximum element in an array.
    ![image](https://img001.prntscr.com/file/img001/IS7iH6cFQr2KQNj8riYF5g.png)
 
-3. Next...
+3. Find Minimum Element: Implement a function to find the minimum element in an array.
+   ![image](https://img001.prntscr.com/file/img001/_6BhToEvS_KMKF5lwbcVSA.png)
+
+4. Next...
 
 ## 💅 We use Eslint and Prettier to format our code.
