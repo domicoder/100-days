@@ -27,6 +27,9 @@ npx ts-node 2-day.ts
 3. Find Minimum Element: Implement a function to find the minimum element in an array.
    ![image](https://img001.prntscr.com/file/img001/_6BhToEvS_KMKF5lwbcVSA.png)
 
-4. Next...
+4. Given an array nums and an integer k, write a function to rotate the array to the right by k steps, where k is non-negative.
+   ![image](https://img001.prntscr.com/file/img001/rz5ZHp-aQIaXYC-ybq92xQ.png)
+
+5. Next...
 
 ## 💅 We use Eslint and Prettier to format our code.
