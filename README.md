@@ -31,7 +31,7 @@ npx ts-node 2-day.ts
    ![image](https://img001.prntscr.com/file/img001/rz5ZHp-aQIaXYC-ybq92xQ.png)
 
 5. Sort an array of integers in ascending.
-   ![image](https://img001.prntscr.com/file/img001/CnaYrBFPSyi8P8JdznTQqw.png)
+   ![image](https://img001.prntscr.com/file/img001/NMtk5OpqTb6V-KkkadIrrg.png)
 
 6. Sort an array of strings in ascending.
    ![image](https://img001.prntscr.com/file/img001/CnaYrBFPSyi8P8JdznTQqw.png)
