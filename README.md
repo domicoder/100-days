@@ -34,7 +34,7 @@ npx ts-node 2-day.ts
    ![image](https://img001.prntscr.com/file/img001/NMtk5OpqTb6V-KkkadIrrg.png)
 
 6. Sort an array of strings in ascending.
-   ![image](https://img001.prntscr.com/file/img001/CnaYrBFPSyi8P8JdznTQqw.png)
+   ![image](https://img001.prntscr.com/file/img001/nEA4wlNfQxi1kmTfvdwZ7A.png)
 
 7. Sort an array of banks accounts by the balance in ascending.
    ![image](https://img001.prntscr.com/file/img001/CnaYrBFPSyi8P8JdznTQqw.png)
